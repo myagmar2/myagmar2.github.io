@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/myagmar2.github.io/"
+  publicPath: process.env.NODE_ENV === "production" ? "/personal-website/" : "/"
 };
