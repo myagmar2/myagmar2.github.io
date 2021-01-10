@@ -10,6 +10,11 @@
     </div>
     <div class="intro-block">
       <div class="title">Hello.</div>
+      <div class="sub-title">I'm a Software Developer based in NYC.</div>
+      <div class="content">
+        At the intersection of product, design, and engineering, I’m focused on
+        front-end development and web analytics.
+      </div>
     </div>
   </div>
 </template>
@@ -74,15 +79,26 @@ export default class HelloWorld extends Vue {
 
 .intro-block {
   position: absolute;
-  top: 5rem;
+  top: 10rem;
   right: 6rem;
   z-index: 2;
+  max-width: 22rem;
 }
 
 .intro-block .title {
   font-weight: bold;
   font-size: 1rem;
   color: #fed23e;
+}
+
+.intro-block .sub-title {
+  font-size: 1.75rem;
+}
+
+.intro-block .content {
+  font-size: 1rem;
+  color: rgb(255, 255, 255, 0.7);
+  padding-top: 1rem;
 }
 
 h1 {
