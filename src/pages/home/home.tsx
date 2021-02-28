@@ -1,6 +1,6 @@
 /** @jsxImportSource @emotion/react */
 import React from "react";
-import { jsx, useTheme } from "@emotion/react";
+import { jsx, useTheme } from "@emotion/react"; // eslint-disable-line @typescript-eslint/no-unused-vars
 import { ReactComponent as GitHubLogo } from "../../assets/git.svg";
 import { ReactComponent as LinkedInLogo } from "../../assets/linkedin.svg";
 import { ReactComponent as TwitterLogo } from "../../assets/twitter.svg";
