@@ -1,7 +1,7 @@
 /** @jsxImportSource @emotion/react */
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import { jsx, ThemeProvider } from "@emotion/react";
+import { jsx, ThemeProvider } from "@emotion/react"; // eslint-disable-line @typescript-eslint/no-unused-vars
 
 import { theme } from "../theme";
 import { Home } from "../pages/home";
