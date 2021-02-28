@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcf66684.chunk.css",
+    "main.js": "/static/js/main.9a241afb.chunk.js",
+    "main.js.map": "/static/js/main.9a241afb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.439bf071.js",
+    "runtime-main.js.map": "/static/js/runtime-main.439bf071.js.map",
+    "static/js/2.5839d6ef.chunk.js": "/static/js/2.5839d6ef.chunk.js",
+    "static/js/2.5839d6ef.chunk.js.map": "/static/js/2.5839d6ef.chunk.js.map",
+    "static/js/3.7083fe7c.chunk.js": "/static/js/3.7083fe7c.chunk.js",
+    "static/js/3.7083fe7c.chunk.js.map": "/static/js/3.7083fe7c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bcf66684.chunk.css.map": "/static/css/main.bcf66684.chunk.css.map",
+    "static/js/2.5839d6ef.chunk.js.LICENSE.txt": "/static/js/2.5839d6ef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/GoldmanSans-Regular.157d272b.woff2",
+    "static/media/git.f75ec6b4.svg": "/static/media/git.f75ec6b4.svg",
+    "static/media/headshot.2258834b.jpeg": "/static/media/headshot.2258834b.jpeg",
+    "static/media/linkedin.32a28d90.svg": "/static/media/linkedin.32a28d90.svg",
+    "static/media/twitter.0083eb4f.svg": "/static/media/twitter.0083eb4f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.439bf071.js",
+    "static/js/2.5839d6ef.chunk.js",
+    "static/css/main.bcf66684.chunk.css",
+    "static/js/main.9a241afb.chunk.js"
+  ]
+}
