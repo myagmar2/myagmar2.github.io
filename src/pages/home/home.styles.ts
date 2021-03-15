@@ -34,7 +34,12 @@ export const styles = (theme: Theme) => ({
     },
   }),
   topSectionNameBlock: css({
-    fontSize: "min(8vw, 4rem)",
+    "& > h1": {
+      fontSize: "min(8vw, 4rem)",
+      lineHeight: "min(9vw, 5rem)",
+      fontWeight: "normal",
+      margin: 0,
+    },
     padding: "4vw 7vw",
   }),
   topSectionFirstName: css({

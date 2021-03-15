@@ -13,11 +13,11 @@ export const Home = () => {
 
   return (
     <div css={css.topSection}>
-      <div css={css.topSectionContent}>
+      <div css={css.topSectionContent} title="Khulan Myagmardorj">
         <div css={css.topSectionNameContainer}>
           <div css={css.topSectionNameBlock}>
-            <div css={css.topSectionFirstName}>Khulan</div>
-            <div css={css.topSectionLastName}>Myagmardorj</div>
+            <h1 css={css.topSectionFirstName}>Khulan</h1>
+            <h1 css={css.topSectionLastName}>Myagmardorj</h1>
             <div css={css.topSectionNameLine} />
           </div>
         </div>
